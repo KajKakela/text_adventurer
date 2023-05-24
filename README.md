@@ -1,2 +1,2 @@
 # text_adventurer
-command line adventure game
+command line adventure game, Work In Progress
